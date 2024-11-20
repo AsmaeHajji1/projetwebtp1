@@ -1,0 +1,36 @@
+h1{
+    margin:3rem;
+    padding:0;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    color:antiquewhite;
+}
+h2{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color:bisque;
+}
+h3{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-style: oblique;
+    color:brown;
+}
+p{ font-size: x-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-style: inherit;
+    color:chocolate;
+}
+span{
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    font-style: initial;
+    color:black;
+}
